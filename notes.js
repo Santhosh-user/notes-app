@@ -33,7 +33,11 @@ const removeNote = (title) => {
 };
 
 const listNotes = () => {
-  loadNotes();
+  const notes = loadNotes();
+  console.log(chalk.inverse(' Your Notes!'));
+  const noteTitles = notes.forEach((note) => {
+    console.log(note.title);
+  });
 };
 
 const saveNotes = (notes) => {
