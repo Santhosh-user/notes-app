@@ -12,3 +12,4 @@ Download node [here](https://nodejs.org/en/)
  # Commands 
  You can use the follwoing to commands to add notes to your system. 
  ... working on it.
+# Wanna build this too? 
