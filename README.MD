@@ -1,5 +1,5 @@
 # About
-This is a simple command line interface application I built using Node JS. You can create, read, update, and delete notes on your computer using the terminal. 
+This is a simple command line interface application I built using Node JS. This app lets you can create, read, update, and delete notes using the CLI and your local file system. 
 
 # Requirements
 node 12+
