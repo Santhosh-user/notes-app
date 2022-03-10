@@ -18,4 +18,4 @@ run `npm i`  or `npm install` to install all of the node modules
  ## List all notes
  `node app.js list`
  ## Read a note
-`node app.js read --title [NOTE TITLE]
+`node app.js read --title [NOTE TITLE]`
