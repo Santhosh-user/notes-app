@@ -16,7 +16,7 @@ const addNote = (title, body) => {
   } else {
     console.log(chalk.red.inverse(' Note title taken!'));
   }
-};
+}
 
 const removeNote = (title) => {
   const notes = loadNotes();
